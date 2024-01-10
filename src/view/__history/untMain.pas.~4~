@@ -28,7 +28,7 @@ begin
   //ShowMessage('Hello Github!');
   //ShowMessage('Agora vamos usar o GitHub!');
 
-  ShowMessage('Terceiro commit, github!!');
+  ShowMessage('Terceiro commit github');
 end;
 
 end.

@@ -25,10 +25,10 @@ implementation
 
 procedure TfrmMain.btnSendMensagemClick(Sender: TObject);
 begin
-  //ShowMessage('Hello Github!');
-  //ShowMessage('Agora vamos usar o GitHub!');
+  ShowMessage('Hello Github!');
+  ShowMessage('Agora vamos usar o GitHub!');
 
-  ShowMessage('Terceiro commit, github!!');
+  // primeiro comentário para testar o terceiro commit
 end;
 
 end.
