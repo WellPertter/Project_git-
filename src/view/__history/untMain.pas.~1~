@@ -25,8 +25,7 @@ implementation
 
 procedure TfrmMain.btnSendMensagemClick(Sender: TObject);
 begin
-  ShowMessage('Hello Github!');
-  ShowMessage('Agora vamos usar o GitHub!');
+  ShowMessage('Hello Github!!');
 end;
 
 end.
